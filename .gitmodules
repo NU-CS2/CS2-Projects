@@ -1,0 +1,3 @@
+[submodule "MxP-Agent-Lab"]
+	path = MxP-Agent-Lab
+	url = git@github.com:Lab-Notebooks/MxP-Agent-Lab.git
